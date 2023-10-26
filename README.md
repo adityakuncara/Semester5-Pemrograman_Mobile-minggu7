@@ -1,7 +1,7 @@
 # layout_dan_navigasi
 
-Nama : Achmad Aly Abdulloh
-Nim : 2141720039
+Nama : Aditya Kuncara bakti
+Nim : 2141720231
 Kelas : TI-3A
 
 ## Praktikum 1: Membangun Layout di Flutter
